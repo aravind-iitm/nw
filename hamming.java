@@ -1,4 +1,4 @@
-package EXAM;
+
 import java.util.*;
 public class hamming{
     static int[] encode(int[] d){
