@@ -1,4 +1,3 @@
-package EXAM;
 
 import java.net.*;
 import java.util.*;
@@ -17,3 +16,4 @@ public class udpclient {
         ds.close();
     }
 }
+
