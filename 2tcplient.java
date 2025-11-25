@@ -1,5 +1,3 @@
-package EXAM;
-
 import java.net.*;
 import java.io.*;
 import java.util.*;
@@ -27,4 +25,5 @@ public class tcplient2 {
         s.close();
     }
 }
+
 
