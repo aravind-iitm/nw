@@ -1,4 +1,3 @@
-package EXAM;
 
 import java.net.*;
 import java.io.*;
@@ -29,4 +28,5 @@ public class tcpserver2 {
         ss.close();
     }
 }
+
 
