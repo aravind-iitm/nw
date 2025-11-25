@@ -1,4 +1,3 @@
-package EXAM;
 
 import java.net.*;
 import java.util.*;
@@ -28,4 +27,5 @@ public class udpserver2 {
         ds.close();
     }
 }
+
 
