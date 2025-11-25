@@ -1,4 +1,4 @@
-package EXAM;
+
 import java.util.*;
 
 class Node implements Comparable<Node> {
